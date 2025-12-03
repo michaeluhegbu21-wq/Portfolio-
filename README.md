@@ -8,7 +8,7 @@ This project showcases my work as a **Full Stack Developer**, including demo web
 
 ## 🌐 Live Portfolio
 You can view the live website here:  
-[Portfolio Live](https://reliable-tiramisu-f1d381.netlify.app/)
+[Portfolio Live](https://michaelcodestudio-f1d381.netlify.app/)
 
 ---
 
